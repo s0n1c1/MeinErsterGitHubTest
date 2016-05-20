@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldClient/HelloWorldClient.iml" filepath="$PROJECT_DIR$/HelloWorldClient/HelloWorldClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldConsumer/HelloWorldConsumer.iml" filepath="$PROJECT_DIR$/HelloWorldConsumer/HelloWorldConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldProvider/HelloWorldProvider.iml" filepath="$PROJECT_DIR$/HelloWorldProvider/HelloWorldProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSGI_Intellij.iml" filepath="$PROJECT_DIR$/OSGI_Intellij.iml" />
+    </modules>
+  </component>
+</project>

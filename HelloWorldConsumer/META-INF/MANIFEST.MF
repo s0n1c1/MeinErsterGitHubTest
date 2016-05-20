@@ -1,0 +1,2 @@
+Import-Package: org.osgi.framework,org.meinosgibeispiel.provider
+Bundle-Activator: org.meinosgibeispiel.consumer.Activator

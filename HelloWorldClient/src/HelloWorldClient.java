@@ -28,5 +28,7 @@ public class HelloWorldClient {
         provider.start();
         consumer.start();
         framework.stop();
+
+        System.out.println("Testende :-)");
     }
 }
